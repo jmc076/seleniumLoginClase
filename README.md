@@ -1,7 +1,7 @@
 # Ejemplo con Selenium IDE
 
 1. Cargar la Test Suite con Selenium IDE (plugin de Firefox)
-
+	Requisitos: Tener instalado el plugin Flow Control de Selenium IDE (descargar aquí: http://www.seleniumhq.org/download/)
 2. Lanzar los tests (sobre http://webapplication320170328024655.azurewebsites.net/)
 
 3. Añadir los tests necesarios para probar toda la funcionalidad de la aplicación: 
