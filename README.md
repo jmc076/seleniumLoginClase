@@ -2,7 +2,7 @@
 
 1. Cargar la Test Suite con Selenium IDE (plugin de Firefox)
 
-2. Lanzar los tests
+2. Lanzar los tests (sobre http://webapplication320170328024655.azurewebsites.net/)
 
 3. Añadir los tests necesarios para probar toda la funcionalidad de la aplicación: 
   * Registro de usuario (Caso correcto - hecho)
