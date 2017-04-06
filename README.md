@@ -1,9 +1,12 @@
 # Ejemplo con Selenium IDE
 
 1. Cargar la Test Suite con Selenium IDE (plugin de Firefox)
-  *	Requisitos: Tener instalado el plugin Flow Control de Selenium IDE (descargar aquí: http://www.seleniumhq.org/download/)
-
-  2. Lanzar los tests (sobre http://webapplication320170328024655.azurewebsites.net/)
+  * Requisitos: Tener instalado el plugin Flow Control de Selenium IDE (descargar aquí: http://www.seleniumhq.org/download/)
+	* Otros plugins a instalar: 
+		1. Highlight Elements
+		2. Implicit Wait
+		3. Test Results
+2. Lanzar los tests (sobre http://webapplication320170328024655.azurewebsites.net/)
 
 3. Añadir los tests necesarios para probar toda la funcionalidad de la aplicación: 
   * Registro de usuario (Caso correcto - hecho)
