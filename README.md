@@ -6,7 +6,7 @@
 		1. Highlight Elements
 		2. Implicit Wait
 		3. Test Results
-2. Lanzar los tests (sobre http://webapplication320170328024655.azurewebsites.net/)
+2. Lanzar los tests (sobre http://loginmay1720170518060532.azurewebsites.net/) (Actualizado Mayo 2017)
 
 3. Añadir los tests necesarios para probar toda la funcionalidad de la aplicación: 
   * Registro de usuario (Caso correcto - hecho)
