@@ -1,5 +1,5 @@
 # Ejemplo con Selenium IDE
-
+[![GitHub issues](https://img.shields.io/github/issues/ualhmis/seleniumLoginClase.svg)](https://github.com/ualhmis/seleniumLoginClase/issues)
 1. Cargar la Test Suite con Selenium IDE (plugin de Firefox)
   * Requisitos: Tener instalado el plugin Flow Control de Selenium IDE (descargar aquí: http://www.seleniumhq.org/download/)
 	* Otros plugins a instalar: 
