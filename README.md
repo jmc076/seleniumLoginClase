@@ -6,17 +6,20 @@
 ```bash
 git clone --bare https://github.com/exampleuser/forked-repository.git
 ```
-    * Mirror-push al nuevo repositorio.
+    
+	* Mirror-push al nuevo repositorio.
 ```bash
 cd forked-repository.git
 git push --mirror git@github.com:exampleuser/new-repository.git
 ```
-    * Elimine el repositorio local creado en el paso anterior
+    
+	* Elimine el repositorio local creado en el paso anterior
 ```bash
 cd ..
 rm -rf forked-repository.git
 ```
-    * Ya puede trabajar normalmente con el nuevo repositorio privado. 
+    
+	* Ya puede trabajar normalmente con el nuevo repositorio privado. 
 
 
 2. Cargar la Test Suite con Katalon Recorder
