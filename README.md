@@ -1,8 +1,8 @@
 # Ejemplo con Selenium IDE
 [![GitHub issues](https://img.shields.io/github/issues/ualhmis/seleniumLoginClase.svg)](https://github.com/ualhmis/seleniumLoginClase/issues)
 1. Realizar un fork de este repositorio en un repositorio en su cuenta GitHub personal. Tras ello, convierta el repositorio en privado siguiendo los pasos mismos pasos descritos en el ejercicio 6 de la actividad05. . Para ello: 
-  * cree un nuevo repositorio privado en GitHub
-  * con Git Bash, cree un clon "bare" del repositorio forkeado
+    * cree un nuevo repositorio privado en GitHub
+    * con Git Bash, cree un clon "bare" del repositorio forkeado
 ```bash
 git clone --bare https://github.com/exampleuser/forked-repository.git
 ```
@@ -16,8 +16,7 @@ git push --mirror git@github.com:exampleuser/new-repository.git
 cd ..
 rm -rf forked-repository.git
 ```
-
-Ya puede trabajar normalmente con el nuevo repositorio privado. 
+  * Ya puede trabajar normalmente con el nuevo repositorio privado. 
 
 
 2. Cargar la Test Suite con Katalon Recorder
