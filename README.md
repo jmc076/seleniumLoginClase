@@ -16,7 +16,7 @@ git push --mirror git@github.com:exampleuser/new-repository.git
 cd ..
 rm -rf forked-repository.git
 ```
-    * Ya puede trabajar normalmente con el nuevo repositorio privado. 
+  * Ya puede trabajar normalmente con el nuevo repositorio privado. 
 
 
 2. Cargar la Test Suite con Katalon Recorder
