@@ -32,6 +32,8 @@ rm -rf forked-repository.git
   * Registro de usuario (Casos incorrectos - por hacer)
   * Login de usuario (Caso correcto - hecho)
   * Login de usuario (Casos incorrectos - por hacer)
+  * Editar el perfil de usuario (caso correcto - por hacer)
+  * Editar el perfil de usuario (casos incorrectos - por hacer)
   * Cambio de contraseña de usuario (Caso correcto - por hacer)
   * Cambio de contraseña de usuario (Casos incorrectos - por hacer)
 	
