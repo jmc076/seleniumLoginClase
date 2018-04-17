@@ -6,7 +6,7 @@
   
 2. Lanzar los tests (sobre https://logappf1hmis2018.azurewebsites.net/) (Actualizado 2018)
 
-<img src="images/loginapp2018dotnetcore.png" width="250">
+<img src="images/loginapp2018dotnetcore.png" width="450">
 
 3. Añadir los tests necesarios para probar toda la funcionalidad de la aplicación: 
   * Registro de usuario (Caso correcto - hecho)
